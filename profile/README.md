@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Fighting%2C+S+O+O+P;We+are+Best+Team" alt="Typing SVG" /></a>
 <div align="center">  
   <h4>"Society Origin Operation People"</h4>
-  <h6>"문구 수정좀"</h6>
+  <h6>"사람들을 위한 활동을 중심으로, 사회의 근원적인 문제를 이해하고 해결하는 운영을 하는 팀"</h6>
 </div>
 <div align="center">  
   <img src="https://github.com/BlizzaB/.github/assets/157683242/3c2da393-cb46-4292-9f31-af3cca21d9a3" alt="2" border="0">
