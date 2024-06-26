@@ -30,7 +30,7 @@
     <tr colspan="2" align="center">
       <td><i>Project manager</i></td>
       <td><i>Configuration Manager</i></td>
-      <td><i>Test & Issue Manager</i></td>
+      <td><i>DataBase & Issue Manager</i></td>
     </tr>
     <tr>
       <td></td>
@@ -38,17 +38,14 @@
       <td></td>
     </tr>
     <tr align="center">
-      <td height="200px" width="200px"><img src="https://github.com/BlizzaB/.github/assets/157683242/7e480587-b7dc-42e9-b292-1b93f6486738" alt="image" border="0"></td>
       <td height="200px" width="200px"><img src="https://github.com/BlizzaB/.github/assets/157683242/809dec29-151a-47c6-95dc-b3c4f5d9e114" alt="image" border="0"></td>
       <td height="200px" width="200px"><img src="https://github.com/BlizzaB/.github/assets/157683242/77a76aa5-ed00-4949-99a7-f66faf05b9c8" alt="image" border="0"></td>
     </tr>
     <tr colspan="2" align="center">
-      <td><strong>임찬울</strong></td>
       <td><strong>김진용</strong></td>
       <td><strong>윤해빈</strong></td>
     </tr>
      <tr colspan="2" align="center">
-      <td><i>DataBase Manager</i></td>
       <td><i>Document Manager</i></td>
       <td><i>Test & Issue Manager</i></td>
     </tr>
