@@ -35,7 +35,7 @@
     <tr colspan="2" align="center">
       <td><i>Project manager</i></td>
       <td><i>Configuration Manager</i></td>
-      <td><i>Test & Issue Manager</i></td>
+      <td><i>DB Administrator</i></td>
       <td><i>Test & Issue Manager</i></td>
       <td><i>Document Manager</i></td>
     </tr>
