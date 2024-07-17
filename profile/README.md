@@ -9,6 +9,7 @@
 <div align="center">  
   <h4>"Society Of Original People"</h4>
   <h6>"독창적인 사람들의 사회"</h6>
+  <h5>https://github.com/S-O-O-P/S-O-O-P/wiki</h5>
 </div>
 <div align="center">  
   <img src="https://github.com/BlizzaB/.github/assets/157683242/3c2da393-cb46-4292-9f31-af3cca21d9a3" alt="2" border="0">
@@ -46,5 +47,5 @@
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0"/>
 <br>
-https://github.com/S-O-O-P/S-O-O-P/wiki
+
 </div>
